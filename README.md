@@ -4,7 +4,7 @@ In questo documento sono raccolti link che possono risultare utili: ci sono riso
 
 ## Chat per la serata
 
-<chat su riot>
+*chat su riot*
 
 ## Risorse
 
@@ -23,11 +23,12 @@ In questo documento sono raccolti link che possono risultare utili: ci sono riso
 
 - Migliorare interfaccia dashboard, ad esempio contrasto etichette grafico in basso a destra https://alessiodl.github.io/COVID19Dashboard/dist/index.html
 - Provare a sistemare qualche issue qua https://github.com/neherlab/covid19_scenarios
-- *Se finiscono il sistema i18n* traduzione italiana del'interfaccia di https://github.com/neherlab/covid19_scenarios 
+- *Se finiscono il sistema i18n* traduzione italiana del'interfaccia di https://github.com/neherlab/covid19_scenarios
+- finire lo scraper qua https://github.com/xrmx/piemontescrapecoronavirus
+
 
 ### Fare una dashboard specifica per il Piemonte (riciclabile anche dalle altri regioni)
 
 Le dashboard nazionali tendono ad avere meno strumenti di visualizzazione sui dati in base regionale o provinciale.
 
-- finire lo scraper qua https://github.com/xrmx/piemontescrapecoronavirus
 - Fare una dashboard usando i dati della Protezione civile e una volta disponibili quelli del punto sopra
