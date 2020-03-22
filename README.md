@@ -23,7 +23,7 @@ In questo documento sono raccolti link che possono risultare utili: ci sono riso
 
 - Migliorare interfaccia dashboard, ad esempio contrasto etichette grafico in basso a destra https://alessiodl.github.io/COVID19Dashboard/dist/index.html
 - Provare a sistemare qualche issue qua https://github.com/neherlab/covid19_scenarios
-- *Se finiscono il sistema i18n* traduzione italiana del'interfaccia di https://github.com/neherlab/covid19_scenarios
+- traduzione italiana del'interfaccia di https://github.com/neherlab/covid19_scenarios
 - Scrivere i test per lo scraper https://github.com/xrmx/piemontescrapecoronavirus/issues/1
 - Creare azione di github per fare lo scraping https://github.com/xrmx/piemontescrapecoronavirus/issues/4
 
