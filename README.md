@@ -4,7 +4,7 @@ In questo documento sono raccolti link che possono risultare utili: ci sono riso
 
 ## Chat per la serata
 
-*chat su riot*
+https://riot.im/app/#/room/!ZwMuALfJRUrfeXchci:matrix.org?via=matrix.org
 
 ## Risorse
 
