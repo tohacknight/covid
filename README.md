@@ -10,7 +10,7 @@ https://riot.im/app/#/room/!ZwMuALfJRUrfeXchci:matrix.org?via=matrix.org
 
 - Dati machine readable della Protezione Civile https://github.com/pcm-dpc/COVID-19
 - Aggiornamenti della regione Piemonte https://www.regione.piemonte.it/web/pinforma/notizie/coronavirus-gli-aggiornamenti-dalla-regione-piemonte
-- Scraping per avere i deceduti per provincia dalla pagina di aggiornamento della regione https://github.com/xrmx/piemontescrapecoronavirus
+- Scraper per avere i deceduti per provincia dalla pagina di aggiornamento della regione https://github.com/xrmx/piemontescrapecoronavirus
 - Dashboard che riusa i dati della Protezione Civile https://github.com/alessiodl/COVID19Dashboard
 - Dashboard di FBK per lo stato in Trentino (loro hanno i dati per comune) https://covid19trentino.fbk.eu/
 - Modelli di traiettorie per il contagio e per il consumo di posti letto ospedalieri https://github.com/neherlab/covid19_scenarios
