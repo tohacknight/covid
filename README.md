@@ -1,4 +1,4 @@
-# Covid
+# Covid-19
 
 In questo documento sono raccolti link che possono risultare utili: ci sono risorse ed alcune idee su cosa fare. 
 
