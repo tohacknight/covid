@@ -22,8 +22,8 @@ https://riot.im/app/#/room/!ZwMuALfJRUrfeXchci:matrix.org?via=matrix.org
 ### Contribuire a progetti esistenti
 
 - Migliorare interfaccia dashboard, ad esempio contrasto etichette grafico in basso a destra https://alessiodl.github.io/COVID19Dashboard/dist/index.html
-- Provare a sistemare qualche issue qua https://github.com/neherlab/covid19_scenarios
-- traduzione italiana del'interfaccia di https://github.com/neherlab/covid19_scenarios
+- Provare a sistemare qualche issue qua https://github.com/neherlab/covid19_scenarios/issues
+- Traduzione italiana del'interfaccia di https://github.com/neherlab/covid19_scenarios
 - Scrivere i test per lo scraper https://github.com/xrmx/piemontescrapecoronavirus/issues/1
 - Creare azione di github per fare lo scraping https://github.com/xrmx/piemontescrapecoronavirus/issues/4
 
