@@ -15,6 +15,7 @@ https://riot.im/app/#/room/!ZwMuALfJRUrfeXchci:matrix.org?via=matrix.org
 - Dashboard di FBK per lo stato in Trentino (loro hanno i dati per comune) https://covid19trentino.fbk.eu/
 - Modelli di traiettorie per il contagio e per il consumo di posti letto ospedalieri https://github.com/neherlab/covid19_scenarios
 - Scraper per avere i deceduti per provincia dalla pagina di aggiornamento della regione https://github.com/xrmx/piemontescrapecoronavirus
+- Dashboard su andamenti mondiali, interessante perchè usa i casi su milione di abitanti al posto del numero assoluto https://covid19-dash.github.io/
 - Collezione di link di progetti Open Source a tema Covid http://open-source-covid-19.weileizeng.com/
 - Report sulla mobilità in Italia durante il Lockdown https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html
 - Challenge su Kaggle https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks
