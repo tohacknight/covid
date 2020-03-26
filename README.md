@@ -8,19 +8,28 @@ https://riot.im/app/#/room/!ZwMuALfJRUrfeXchci:matrix.org?via=matrix.org
 
 ## Risorse
 
+### Dati
+
 - Dati machine readable della Protezione Civile https://github.com/pcm-dpc/COVID-19
 - Aggiornamenti della regione Piemonte https://www.regione.piemonte.it/web/pinforma/notizie/coronavirus-gli-aggiornamenti-dalla-regione-piemonte
-- Dashboard che riusa i dati della Protezione Civile https://github.com/alessiodl/COVID19Dashboard
-- web app open source per condividere informazioni sul coronavirus https://www.covid19italia.help/
-- Dashboard di FBK per lo stato in Trentino (loro hanno i dati per comune) https://covid19trentino.fbk.eu/
-- Modelli di traiettorie per il contagio e per il consumo di posti letto ospedalieri https://github.com/neherlab/covid19_scenarios
 - Scraper per avere i deceduti per provincia dalla pagina di aggiornamento della regione https://github.com/xrmx/piemontescrapecoronavirus
+- Dati e Dashboard su base regionale https://github.com/lucab/covid19-ita-regional
+- Collezione di fonti di dati regionali https://www.infodata.ilsole24ore.com/2020/03/22/dati-coronavirus-regione-va-conto-suo-aiutateci-mappare-condivide-cosa-aggiornato/
+- Challenge su Kaggle https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks
+
+### Dashboard
+
+- Dashboard che riusa i dati della Protezione Civile https://github.com/alessiodl/COVID19Dashboard
+- Modelli di traiettorie per il contagio e per il consumo di posti letto ospedalieri https://github.com/neherlab/covid19_scenarios
 - Dashboard su andamenti mondiali, interessante perchè usa i casi su milione di abitanti al posto del numero assoluto https://covid19-dash.github.io/
+- Dashboard di FBK per lo stato in Trentino (loro hanno i dati per comune) https://covid19trentino.fbk.eu/
+
+### Varie ed eventuali
+
+- Web app open source per condividere informazioni sul coronavirus https://www.covid19italia.help/
 - Collezione di link di progetti Open Source a tema Covid http://open-source-covid-19.weileizeng.com/
 - Report sulla mobilità in Italia durante il Lockdown https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html
-- Challenge su Kaggle https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks
 - Lista di hackathons in giro per il mondo https://www.bigdive.eu/covid19-hackathons/
-
 
 ## Idee per la serata
 
