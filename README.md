@@ -23,6 +23,7 @@ https://riot.im/app/#/room/!ZwMuALfJRUrfeXchci:matrix.org?via=matrix.org
 - Un'altra dashboard minimale a partire dai dati della Protezione Civile https://observablehq.com/@matjack1/covid-19-in-italia
 - Modelli di traiettorie per il contagio e per il consumo di posti letto ospedalieri https://github.com/neherlab/covid19_scenarios
 - Dashboard su andamenti mondiali, interessante perchè usa i casi su milione di abitanti al posto del numero assoluto https://covid19-dash.github.io/
+- Dashboard del Financial Times https://www.ft.com/coronavirus-latest
 - Dashboard di FBK per lo stato in Trentino (loro hanno i dati per comune) https://covid19trentino.fbk.eu/
 
 ### Varie ed eventuali
