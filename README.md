@@ -37,6 +37,7 @@ https://riot.im/app/#/room/!ZwMuALfJRUrfeXchci:matrix.org?via=matrix.org
 
 ### Contribuire a progetti esistenti
 
+- Completare traduzione italiana jitsi https://hosted.weblate.org/projects/jitsi/languages/
 - Migliorare interfaccia dashboard, ad esempio contrasto etichette grafico in basso a destra https://alessiodl.github.io/COVID19Dashboard/dist/index.html
 - Provare a sistemare qualche issue qua https://github.com/emergenzeHack/covid19italia
 - Provare a sistemare qualche issue qua https://github.com/neherlab/covid19_scenarios/issues
