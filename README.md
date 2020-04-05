@@ -1,10 +1,22 @@
 # Covid-19
 
-In questo documento sono raccolti link che possono risultare utili: ci sono risorse ed alcune idee su cosa fare. 
+In questo documento sono raccolti link che possono risultare utili: dove trovare i dati e riferimenti a dashboard già esistenti e infine ci sono idee su cosa fare.
+
+Qua sotto trovi il link della chat e un paragrafo sulle modalità di lavoro da leggere.
 
 ## Chat per la serata
 
 https://riot.im/app/#/room/!ZwMuALfJRUrfeXchci:matrix.org?via=matrix.org
+
+## Modalità di lavoro
+
+Torino Hacknight nasce per contribuire attivamente a progetti Open Source: lo spirito è quindi quello di fare qualcosa di utile :) Di solito, visto il poco tempo a disposizione, contribuire a progetti già esistenti ha più impatto che costruire qualcosa da zero.
+
+In fondo alla pagina trovi una lista di possibili cose da fare ma non sentirti obbligato a doverne fare una di queste. Se vuoi aggiungerne qualcosa fai una Pull Request.
+
+Per evitare di duplicare il lavoro crea una issue in questo repository con quello che stai facendo, le risorse sono poche meglio non sprecarle!
+
+All'inizio della serata faremo una call dove introdurremo la serata e questo repository, per comodità però lo strumento principale di comunicazione sarà la chat su matrix.
 
 ## Risorse
 
