@@ -49,11 +49,11 @@ All'inizio della serata faremo una call dove introdurremo la serata e questo rep
 
 ### Contribuire a progetti esistenti
 
-- Completare traduzione italiana jitsi https://hosted.weblate.org/projects/jitsi/languages/
 - Migliorare interfaccia dashboard, ad esempio contrasto etichette grafico in basso a destra https://alessiodl.github.io/COVID19Dashboard/dist/index.html
 - Provare a sistemare qualche issue qua https://github.com/emergenzeHack/covid19italia
 - Provare a sistemare qualche issue qua https://github.com/neherlab/covid19_scenarios/issues
 - Traduzione italiana del'interfaccia di https://github.com/neherlab/covid19_scenarios
+- BLOCCATA: Completare traduzione italiana jitsi https://hosted.weblate.org/projects/jitsi/
 - Scrivere i test per lo scraper https://github.com/xrmx/piemontescrapecoronavirus/issues/1
 - Creare azione di github per fare lo scraping https://github.com/xrmx/piemontescrapecoronavirus/issues/4
 
