@@ -22,6 +22,7 @@ All'inizio della serata faremo una call introduttiva alla serata e a questo repo
 
 ### Dati
 
+- Collezione di dati definitiva https://docs.google.com/spreadsheets/d/1v99oT7y-PV9Sy7myZ2_XFmohiOuvAAtN11Onp7ZhTq0/edit
 - Dati machine readable della Protezione Civile https://github.com/pcm-dpc/COVID-19
 - API che esporta i dati della Protezione Civile ed altro https://covid19-it-api.herokuapp.com/doc/
 - Aggiornamenti della regione Piemonte https://www.regione.piemonte.it/web/pinforma/notizie/coronavirus-gli-aggiornamenti-dalla-regione-piemonte
