@@ -12,11 +12,11 @@ https://riot.im/app/#/room/!ZwMuALfJRUrfeXchci:matrix.org?via=matrix.org
 
 Torino Hacknight nasce per contribuire attivamente a progetti Open Source: lo spirito è quindi quello di fare qualcosa di utile :) Di solito, visto il poco tempo a disposizione, contribuire a progetti già esistenti ha più impatto che costruire qualcosa da zero.
 
-In fondo alla pagina trovi una lista di possibili cose da fare ma non sentirti obbligato a doverne fare una di queste. Se vuoi aggiungerne qualcosa fai una Pull Request.
+In fondo alla pagina trovi una lista di possibili cose da fare ma non sentirti obbligato a doverne fare una di queste. Se vuoi aggiungerne qualcosa fai una Pull Request a questo repository.
 
-Per evitare di duplicare il lavoro crea una issue in questo repository con quello che stai facendo, le risorse sono poche meglio non sprecarle!
+Per evitare di duplicare il lavoro crea una issue in questo repository con quello che stai facendo: le risorse sono poche meglio non sprecarle!
 
-All'inizio della serata faremo una call dove introdurremo la serata e questo repository, per comodità però lo strumento principale di comunicazione sarà la chat su matrix.
+All'inizio della serata faremo una call introduttiva alla serata e a questo repository, per comodità però lo strumento principale di comunicazione sarà la chat su matrix.
 
 ## Risorse
 
