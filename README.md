@@ -23,6 +23,7 @@ All'inizio della serata faremo una call introduttiva alla serata e a questo repo
 ### Dati
 
 - Dati machine readable della Protezione Civile https://github.com/pcm-dpc/COVID-19
+- API che esporta i dati della Protezione Civile ed altro https://covid19-it-api.herokuapp.com/doc/
 - Aggiornamenti della regione Piemonte https://www.regione.piemonte.it/web/pinforma/notizie/coronavirus-gli-aggiornamenti-dalla-regione-piemonte
 - Scraper per avere i deceduti per provincia dalla pagina di aggiornamento della regione https://github.com/xrmx/piemontescrapecoronavirus
 - Dati e Dashboard su base regionale https://github.com/lucab/covid19-ita-regional
