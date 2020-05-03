@@ -69,4 +69,4 @@ All'inizio della serata faremo una call introduttiva alla serata e a questo repo
 
 Le dashboard nazionali tendono ad avere meno strumenti di visualizzazione sui dati in base regionale o provinciale.
 
-- Fare una dashboard usando i dati della Protezione civile e una volta disponibili quelli del punto sopra
+- Fare una dashboard usando i dati su base regionale / provinciale / comunale
