@@ -30,7 +30,7 @@ All'inizio della serata faremo una call introduttiva alla serata e a questo repo
 - API che esporta i dati della Protezione Civile ed altro https://covid19-it-api.herokuapp.com/doc/
 - Aggiornamenti della regione Piemonte https://www.regione.piemonte.it/web/pinforma/notizie/coronavirus-gli-aggiornamenti-dalla-regione-piemonte
 - ~~Scraper per avere i deceduti per provincia dalla pagina di aggiornamento della regione https://github.com/xrmx/piemontescrapecoronavirus~~
-- Dati e Dashboard su base regionale https://github.com/lucab/covid19-ita-regional
+- ~~Dati e Dashboard su base regionale https://github.com/lucab/covid19-ita-regional~~
 - Collezione di fonti di dati regionali https://www.infodata.ilsole24ore.com/2020/03/22/dati-coronavirus-regione-va-conto-suo-aiutateci-mappare-condivide-cosa-aggiornato/
 - Challenge su Kaggle https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks
 
