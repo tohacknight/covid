@@ -45,6 +45,7 @@ All'inizio della serata faremo una call introduttiva alla serata e a questo repo
 
 ### Varie ed eventuali
 
+- Report servizio regionale epidemiologico Piemonte https://www.seremi.it/sites/default/files/2020%2004%2020%20Report%20COVID19%20Piemonte.pdf
 - Web app open source per condividere informazioni sul coronavirus https://www.covid19italia.help/
 - Collezione di link di progetti Open Source a tema Covid http://open-source-covid-19.weileizeng.com/
 - Report sulla mobilità in Italia durante il Lockdown https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html
